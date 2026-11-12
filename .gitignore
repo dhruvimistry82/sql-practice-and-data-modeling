@@ -1,0 +1,6 @@
+.vs/
+*.user
+*.bak
+*.mdf
+*.ldf
+.DS_Store
